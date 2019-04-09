@@ -8,7 +8,7 @@ apt install libpqxx-dev
 set up postgressql add your db and password and table
 
 # examples
-```
+```c++
 #include "../db_service.h"
 
 int main() {
